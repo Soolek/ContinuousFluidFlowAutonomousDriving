@@ -1,0 +1,126 @@
+Continuous Fluid Flow Autonomous Driving
+Source-Available Noncommercial License 1.0
+
+Copyright (c) 2021-2026 Tomasz Sułkowski (https://www.CodeAndDrive.com). All rights reserved.
+
+This license is modelled on the PolyForm Strict and PolyForm Noncommercial
+licenses (https://polyformproject.org/) but is a standalone text. It is NOT
+an open-source license.
+
+------------------------------------------------------------------------------
+
+## Acceptance
+
+In order to receive this license, you must agree to its rules. The rules of
+this license are both obligations under that agreement and conditions to your
+license. You must not do anything with this software that triggers a rule that
+you cannot or will not follow.
+
+## Copyright License
+
+The licensor grants you a copyright license to view, read, study, run and
+modify the software, for the Permitted Purposes only, subject to all the
+rules and conditions below.
+
+## Permitted Purposes
+
+You may use the software only for the following purposes:
+
+1. **Academic and research use.** Use by universities, research institutes
+   and their staff and students for teaching, study, scientific research,
+   peer review, and reproduction or verification of published results,
+   provided that any resulting publication cites the work as described in
+   the "Attribution" section.
+
+2. **Student use.** Use by enrolled students as part of their coursework,
+   theses, or self-directed learning.
+
+3. **Personal use.** Use by an individual, for their own private,
+   non-commercial purposes, with no intent of commercial gain or deployment
+   in a production or safety-critical setting.
+
+## Prohibited Purposes
+
+Any use not expressly listed above is prohibited. In particular, you may not:
+
+1. use the software, or any part or derivative of it, for any commercial
+   purpose, including in a product, service, or internal business process,
+   whether or not money changes hands;
+
+2. use the software, or any part or derivative of it, in or for a real
+   vehicle, robot, or any system that operates in the physical world;
+
+3. distribute, publish, sublicense, sell, or otherwise make the software
+   or any modified version of it available to third parties, except that
+   you may share modifications privately with collaborators who are also
+   using the software for a Permitted Purpose, and you may include short
+   excerpts in academic publications for the purpose of discussion;
+
+4. remove or alter any copyright, license, or attribution notice;
+
+5. use the software to train, fine-tune, evaluate, or otherwise develop
+   machine-learning models for any Prohibited Purpose.
+
+## Attribution
+
+Any academic work, publication, presentation, thesis, or report that uses,
+reproduces, or builds on this software or its results must cite:
+
+  T. Sułkowski, "Implementacja algorytmu autonomicznej jazdy w symulowanym
+  ruchu ulicznym", PhD thesis, Politechnika Śląska (Silesian University of
+  Technology), Gliwice, 2021.
+
+and the main publication:
+
+  T. Sułkowski, J. Izydorczyk, M. Szelest, "Autonomous Driving Using Fluid
+  Flow Simulation", IEEE Access, vol. 10, pp. 33349-33361, 2022.
+  https://doi.org/10.1109/ACCESS.2022.3161727
+
+## Notices
+
+You must ensure that anyone who gets a copy of any part of the software from
+you, under the limited sharing allowed above, also gets a copy of this
+license, or a link to it.
+
+## Patent Defense
+
+If you make any written claim that the software infringes or contributes to
+infringement of any patent, your license for the software ends immediately.
+
+## Violations
+
+The first time you are notified in writing that you have violated any of
+these rules, or done anything with the software not covered by your license,
+your license can nonetheless continue if you come into full compliance with
+these rules and take practical steps to correct past violations within
+32 days of receiving notice. Otherwise, your license ends immediately.
+
+## No Other Rights
+
+These rules do not imply any other licenses. No trademark, patent (except as
+needed for the Permitted Purposes), or other rights are granted.
+
+## Commercial and Other Licensing
+
+For any use outside the Permitted Purposes, including commercial licensing,
+contact the licensor at: soolek@gmail.com or via https://www.CodeAndDrive.com
+
+## Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. THIS SOFTWARE
+IS A RESEARCH PROTOTYPE AND MUST NOT BE USED TO CONTROL ANY REAL VEHICLE.
+
+## Definitions
+
+The **licensor** is Tomasz Sułkowski, the copyright holder named above.
+
+The **software** is the source code, documentation, data, models, and other
+materials the licensor makes available under this license, together with any
+modifications or derivative works of them.
+
+**You** refers to the individual or entity agreeing to these rules.
